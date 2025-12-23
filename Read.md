@@ -12,4 +12,5 @@ repository
 - git commit -m 'ghi chú'
 - git log (để xem những lần commit)
 - git log --oneline (ngắn gọn hơn)
-- git checkout + id -- ex: git checkout 968a759
+- git checkout + id -- ex: git checkout 968a759 (xem lại tại thời điểm id)
+- git checkout master (trở lại ban đầu)
