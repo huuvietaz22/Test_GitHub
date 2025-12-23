@@ -24,6 +24,11 @@
 - git merge {branch name} (tổng hợp nhánh đc gọi tên)
 - git branch -d {branch name} (xóa 1 branch)
   lưu ý: khi xóa nhớ lưu bằng lệnh commit và xem lại bằng lệnh git log xem đã lưu chưa.
+- git push (dùng khi lấy repo từ trên github về local)
 - git push {link github} {branch name} (dùng để đẩy lên repo trên github)
-- git remote add {name} {link} (đặt tên cho link)
-- git push -u {link or name} {branch name} (đẩy branch lên trên git)
+- git remote add origin {link} (đặt tên cho link) 
+- git clone {repo url}
+- git fetch origin
+- git push -u origin {branch name} (đẩy branch lên trên git) 
+- git checkout -b {branch name} origin/{branch name}
+- git pull (đẩy merge từ trên remote xuống dưới local)
