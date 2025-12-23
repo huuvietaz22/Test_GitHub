@@ -3,6 +3,8 @@
 - branch: cành (master)
 - repository
 - conflict: xung đột
+- local: những thứ nằm trên máy tính
+- remove: những thứ không nằm trên máy của chúng ta
 
 #commad
 
