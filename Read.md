@@ -7,3 +7,4 @@ repository
 - git status (ktra trạng thái)
 - git add (chuẩn bị lưu lại thời điểm)
 - git reset
+- git commit (dùng để lưu  )
