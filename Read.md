@@ -15,6 +15,9 @@
 - git log --oneline (ngắn gọn hơn)
 - git checkout + id -- ex: git checkout 968a759 (xem lại tại thời điểm id)
 - git checkout master (trở lại ban đầu)
-- git checkout {branch name}
+- git checkout {branch name} (dùng để chuyển branch)
 - git branch
 - git checkout -b {branch name} (thêm branch mới)
+- git merge {branch name} (tổng hợp nhánh đc gọi tên)
+- git branch -d {branch name} (xóa 1 branch)
+lưu ý: khi xóa nhớ lưu bằng lệnh commit
