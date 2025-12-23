@@ -2,6 +2,7 @@
 
 - branch: cành (master)
 - repository
+- conflict: xung đột
 
 #commad
 
