@@ -25,3 +25,5 @@
 - git branch -d {branch name} (xóa 1 branch)
   lưu ý: khi xóa nhớ lưu bằng lệnh commit và xem lại bằng lệnh git log xem đã lưu chưa.
 - git push {link github} {branch name} (dùng để đẩy lên repo trên github)
+- git remote add {name} {link} (đặt tên cho link)
+- git push -u {link or name} {branch name} (đẩy branch lên trên git)
