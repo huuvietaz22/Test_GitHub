@@ -20,4 +20,5 @@
 - git checkout -b {branch name} (thêm branch mới)
 - git merge {branch name} (tổng hợp nhánh đc gọi tên)
 - git branch -d {branch name} (xóa 1 branch)
-lưu ý: khi xóa nhớ lưu bằng lệnh commit
+  lưu ý: khi xóa nhớ lưu bằng lệnh commit và xem lại bằng lệnh git log xem đã lưu chưa.
+-
